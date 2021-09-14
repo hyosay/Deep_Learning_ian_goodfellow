@@ -1,21 +1,5 @@
 # Deep_Learning_ian_goodfellow
 
-### statistical : 통계
-
-### estimation : 추정
-
-### Regularization
-
-### Normalization
-
-### supervised
-
-### Un-supervised
-
-### semi_supervised
-
-### accuracy
-
 
 # Chapter 4
 
@@ -24,3 +8,6 @@
 
 
 #### _argmax_, _argmin_ 은 _function_ 이 최대 ,최소가 되게 해주는 x의 값을 나타내는 _function_ 이다.
+
+
+교차검증(cross-validation)
