@@ -1,9 +1,9 @@
-# Deep_Learning_ian_goodfellow 정리 및 공유
+# ✍️Deep_Learning_ian_goodfellow 정리 및 공유
 > 주석은 역자생각 또는 추가설명이다.
 
-# Chapter 3
-## 확률론과 정보 이론(probability theory)
-#### 불확실성을 발생할 수 있는 세 가지 원천
+## Chapter 3
+### 확률론과 정보 이론(probability theory)
+##### 불확실성을 발생할 수 있는 세 가지 원천
 1. 모형화할 시스템에 내재한 확률성
 2. 불완전한 관측 가능성(observability)
 3. 불완전한 모형화
@@ -19,7 +19,7 @@
 
 확률론은 다른 명제들의 가능도 <sup>있을 수 있는일</sup>(likelihood)가 주어졌을 떄 어떤 명제가 참일 가능도를 결정하는 일단의 형식적인 규칙들을 제공한다.
 
-### 3.2 확률변수
+#### 3.2 확률변수
 확률변수는 이산(discrete)일 수도 있고 연속(continuous)일 수도 있다. 
 
 어떤 함수 _p_가 확률변수 x에 대한 하나의 확률질량함수가 되려면 반드시 다음 성질들을 충족해야 한다.
