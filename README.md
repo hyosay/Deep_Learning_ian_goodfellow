@@ -1,4 +1,4 @@
-# ✍️Deep_Learning_ian_goodfellow 정리 및 공유
+# ✍️심층학습(DeepLearning)<sub> ian_goodfellow, Yoshua Bengio</sub> 정리 및 공유
 > 주석은 역자생각 또는 추가설명이다.
 
 ## Chapter 3
@@ -28,8 +28,9 @@
 
 이 성질을 충족하게 만드는 것을 **정규화(normalization)** 라고 한다.
 > 소프트맥스함수(softmax function)가 정규화를 하는 과정이라고 생각한다.
-> 주사위 1번 던졌을떄 1 ~ 6까지 나올 확률이 각 `1/6`이다. 즉 확률의 합이 1이다.
-
+> 주사위 1번 던졌을떄 1 ~ 6까지 나올 확률이 각 `1/6`이다. 즉 확률의 합이 1이다.   
+> 이산변수 = 확률질량함수   
+> 연속확률변수 = 확률밀도함수 
 
 # Chapter 4
 
