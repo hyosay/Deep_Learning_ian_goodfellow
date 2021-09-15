@@ -1,5 +1,5 @@
 # Deep_Learning_ian_goodfellow 정리 및 공유
-
+> 주석은 역자생각 또는 추가설명이다.
 
 # Chapter 3
 ## 확률론과 정보 이론(probability theory)
@@ -21,6 +21,15 @@
 
 ### 3.2 확률변수
 확률변수는 이산(discrete)일 수도 있고 연속(continuous)일 수도 있다. 
+
+어떤 함수 _p_가 확률변수 x에 대한 하나의 확률질량함수가 되려면 반드시 다음 성질들을 충족해야 한다.
+
+<img width="274" alt="스크린샷 2021-09-15 오후 6 54 43" src="https://user-images.githubusercontent.com/46950334/133412607-58dd6835-30e4-407a-8bcb-48c22843428d.png">   
+
+이 성질을 충족하게 만드는 것을 **정규화(normalization)** 라고 한다.
+> 소프트맥스함수(softmax function)가 정규화를 하는 과정이라고 생각한다.
+> 주사위 1번 던졌을떄 1 ~ 6까지 나올 확률이 각 `1/6`이다. 즉 확률의 합이 1이다.
+
 
 # Chapter 4
 
